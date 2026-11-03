@@ -1,0 +1,35 @@
+Route #1: 99 151 169 40 106 139 93 113 25 102 62 42 41 81 163 90
+Route #2: 122 39 143 120 2 47 174 134 142 160 53 44 57 133
+Route #3: 60 135 70 103 86 1 91 51 71 75
+Route #4: 144 69 24 54 96 173 85 64 115 45 128
+Route #5: 118 34 77 100 170 119 83 38 162 88 97 61 153
+Route #6: 9 3 172 175 148 121
+Route #7: 156 74 56 11 65 98 140 67 123 147 72 136 127 159
+Route #8: 30 31 167 84 82 145
+Route #9: 138 131 92 104 111 14 114 154 165 63 171 157 166
+Route #10: 33 117 55 149 137 89 124 132 59 46 112 76 110
+Route #11: 6 73 58 161 101 155 79 109
+Route #12: 66 22 49 158 48 87
+Route #13: 15 78 50 105 146 68 80
+Route #14: 10 150 116 130 108 94 107 43
+Route #15: 7 164 95 168 125 52 129 152 141
+Route #16: 12 26
+Route #17: 19 36
+Route #18: 13 29
+Route #19: 35 126
+Route #20: 21 27
+Route #21: 17 23
+Route #22: 8
+Route #23: 16
+Route #24: 32 20
+Route #25: 28
+Route #26: 18
+Status: FAILURE
+Alpha: 0.3000
+Random seed: 42
+Vehicles used: 26 / 26
+Served customers: 172 / 175
+Unserved customers (3): 4 5 37
+Unserved demand: 234
+Reason: Reached maximum number of vehicles K
+Partial cost: 74014

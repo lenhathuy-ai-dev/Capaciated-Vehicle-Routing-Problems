@@ -1,0 +1,22 @@
+Route #1: 112 147 118 5 85 59 99 91
+Route #2: 105 53 58 13 94 95 87 144 57 115 2 137 92
+Route #3: 27 111 28 138 68 134 54 130 4 139 55
+Route #4: 89 18 48 47 49 143 36 19 107 11 123
+Route #5: 146 31 127 148 62 108 10 32 131 30 122 51 70
+Route #6: 26 149 12 109 116 102 81 120 9 103 78 46
+Route #7: 132 69 1 50 76 77 79 3 129 33 34 135 35 71 66
+Route #8: 40 72 133 22 75 23 39 67 25 56 74 17
+Route #9: 52 106 82 114 125 45 8 83 60 93 100 141 42
+Route #10: 6 96 104 98 37 97 117 86 113 16 44 14 119 142 43
+Route #11: 21 73 145 41 15 38 140 61 84 124 7 88 101 128 20 65 136 29 121 150 80
+Route #12: 110 24 90 63 126 64
+Cost 1617
+Status: SUCCESS
+All customers served: YES
+Served customers: 150 / 150
+Unserved customers (0): None
+Vehicles used: 12 / 12
+Alpha: 1.000000
+Beta: 1.000000
+D_ref: 92.000000
+Generator: Algorithm 9 - Demand-Priority Nearest Neighbor (DPNN)

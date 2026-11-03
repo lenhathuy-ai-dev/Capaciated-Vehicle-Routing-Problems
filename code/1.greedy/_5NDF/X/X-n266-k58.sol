@@ -1,0 +1,66 @@
+Route #1: 236 165 202 223
+Route #2: 195 198 144 185 262
+Route #3: 88 103 237 197 206
+Route #4: 68 149 112 25
+Route #5: 261 139 27 81 263
+Route #6: 170 227 254 164
+Route #7: 47 84 239 134 217
+Route #8: 137 10 148 20
+Route #9: 233 109 29 230 163
+Route #10: 141 219 13 114 21
+Route #11: 194 238 98 66 90 106
+Route #12: 186 143 62 171 193
+Route #13: 234 191 181 204
+Route #14: 166 189 89 94 54
+Route #15: 249 51 146 242
+Route #16: 183 174 258 162
+Route #17: 147 246 104 161
+Route #18: 152 57 133 235
+Route #19: 154 209 73 231
+Route #20: 172 123 180 153
+Route #21: 240 182 159 173
+Route #22: 59 110 124 44
+Route #23: 241 97 43 265
+Route #24: 65 115 49 82 157
+Route #25: 125 69 53 33
+Route #26: 190 12 205 156 113
+Route #27: 16 102 41 45 221
+Route #28: 150 259 218 226 140
+Route #29: 155 129 75 101
+Route #30: 211 158 175 188
+Route #31: 232 178 229 248 260
+Route #32: 215 168 264 201 138
+Route #33: 250 79 199 252 99
+Route #34: 187 253 245 184
+Route #35: 67 142 255 222
+Route #36: 214 256 251 192
+Route #37: 76 31 243 34
+Route #38: 135 145 177 196
+Route #39: 92 56 208 39 35
+Route #40: 63 105 15 207
+Route #41: 176 257 86 52 203
+Route #42: 212 132 151 42
+Route #43: 127 95 78 116
+Route #44: 179 200 136 74
+Route #45: 160 220 210 244 169
+Route #46: 224 18 58 91
+Route #47: 120 85 100 107 122
+Route #48: 108 167 126 121
+Route #49: 228 23 213 22 24
+Route #50: 40 70 5 96
+Route #51: 83 72 32 11
+Route #52: 128 225 19 87 118
+Route #53: 216 60 247 130
+Route #54: 14 64 6 3
+Route #55: 17 1 71 37 28
+Route #56: 77 7 38 4
+Route #57: 30 9 8 26
+Route #58: 46 55 2 117 80
+Partial cost 77248
+Status: FAILURE
+All customers served: NO
+Served customers: 257 / 265
+Unserved customers (8): 36 48 50 61 93 111 119 131
+Vehicles used: 58 / 58
+Failure reason: Maximum K vehicles reached
+Generator: Algorithm 5 - Nearest Depot First (NDF)

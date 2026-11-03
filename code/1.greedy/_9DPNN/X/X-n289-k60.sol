@@ -1,0 +1,71 @@
+Route #1: 25 275 233 57 133 163
+Route #2: 278 2 82 211 104
+Route #3: 58 192 249 105 49
+Route #4: 217 282 147 257
+Route #5: 180 250 51 53 71
+Route #6: 135 20 125
+Route #7: 169 170 185 141
+Route #8: 136 107 270 231
+Route #9: 254 145 210 258
+Route #10: 195 168 240 109
+Route #11: 218 209 204 39
+Route #12: 62 263 248 123
+Route #13: 253 206 234 224
+Route #14: 189 54 166 151
+Route #15: 286 1 213 90
+Route #16: 175 241 255 276 173
+Route #17: 193 201 94 212
+Route #18: 110 126 284 63
+Route #19: 214 203 56 45
+Route #20: 181 267 247 47
+Route #21: 78 246 114 128
+Route #22: 32 179 142 271 118
+Route #23: 15 245 40 16 48
+Route #24: 156 120 182 138
+Route #25: 167 91 239 281 272
+Route #26: 131 38 36 42
+Route #27: 30 130 85 221 222 161
+Route #28: 146 191 72 171 199 285
+Route #29: 11 106 93 98
+Route #30: 113 97 225 111
+Route #31: 177 150 207 264 194 242 202 89
+Route #32: 237 223 35 64
+Route #33: 87 208 134 50 226 160
+Route #34: 34 235 17 287 205 164 74
+Route #35: 165 18 157 22
+Route #36: 124 103 153 67
+Route #37: 5 81 27 152 139
+Route #38: 227 283 13 230 92 77
+Route #39: 121 200 197
+Route #40: 190 33 61 96
+Route #41: 244 28 269 148
+Route #42: 100 26 9 59 24
+Route #43: 37 75 155 277
+Route #44: 236 99 55 117 108 73 80 122
+Route #45: 69 172 288 262
+Route #46: 132 3 174 251
+Route #47: 259 154 256 65 116 84
+Route #48: 23 31 4 144 129 101 10 29 159 83 127
+Route #49: 12 46 274 268 41
+Route #50: 220 162 66 70 176 143 260
+Route #51: 261 183 232
+Route #52: 95 158 252 68
+Route #53: 137 280 228 215
+Route #54: 119 88 6 266 60
+Route #55: 198 219 229 186
+Route #56: 52 76 196 187
+Route #57: 14 7 112 21 188 19 44 216
+Route #58: 8 115 149 184 79
+Route #59: 178 86 273 140
+Route #60: 243 238 265 279
+Partial cost 115981
+Status: FAILURE
+All customers served: NO
+Served customers: 286 / 288
+Unserved customers (2): 43 102
+Vehicles used: 60 / 60
+Alpha: 1.000000
+Beta: 1.000000
+D_ref: 1404.000000
+Failure reason: Maximum K vehicles reached
+Generator: Algorithm 9 - Demand-Priority Nearest Neighbor (DPNN)

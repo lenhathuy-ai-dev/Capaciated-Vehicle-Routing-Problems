@@ -1,0 +1,12 @@
+Route #1: 75 68 6 51 17 12 40 32 44 3 16 63 33 73 1 22 72
+Route #2: 67 34 46 8 35 7 53 14 19 54 13 27 52 4
+Route #3: 26 58 10 38 65 11 66 59 57 15 5 29 45 71
+Route #4: 30 2 74 28 62 43 41 42 64 61 21 47 36 69 60 23
+Route #5: 48 37 20 70 49 24 18 50 25 55 9 39 31 56
+Cost 962
+Status: SUCCESS
+All customers served: YES
+Served customers: 75 / 75
+Unserved customers (0): None
+Vehicles used: 5 / 5
+Generator: Algorithm 5 - Nearest Depot First (NDF)

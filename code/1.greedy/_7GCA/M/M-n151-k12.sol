@@ -1,0 +1,20 @@
+Route #1: 25 55 130 54 109 12 138 28 111 132 69 1 101 70 30 122
+Route #2: 115 2 57 144 87 97 117 95 94 6 147 89 112
+Route #3: 121 29 24 134 150 80 68 76 116 77 3 79 129 78 34
+Route #4: 56 75 133 22 74 72 73 21 110 4 139 39
+Route #5: 46 125 45 8 114 83 118 60 5 84 17 113
+Route #6: 18 106 7 82 48 124 47 36 143 49 64
+Route #7: 50 102 33 81 120 9 103 71 136 35 135
+Route #8: 108 10 62 148 88 31 127 52 146 27
+Route #9: 123 19 107 11 126 63 90 32 131 128 20 51 66 65
+Route #10: 137 13 96 104 99 59 92 37 98 93 85 91 100
+Route #11: 43 15 42 142 14 119 44 141 16 61 86 140 38
+Route #12: 149 26 105 53 58 40 145 41 23 67
+Cost 1300
+Status: SUCCESS
+All customers served: YES
+Served customers: 150 / 150
+Unserved customers (0): None
+Vehicles used: 12 / 12
+Chains after merging: 12
+Generator: Algorithm 7 - Global Cheapest Arc (GCA)

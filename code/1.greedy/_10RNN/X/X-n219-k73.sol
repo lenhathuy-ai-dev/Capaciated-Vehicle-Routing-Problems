@@ -1,0 +1,81 @@
+Route #1: 93 178 210
+Route #2: 30 173 180
+Route #3: 146 138 26
+Route #4: 95 39 27
+Route #5: 4 124 188
+Route #6: 83 137 25
+Route #7: 176 157 1
+Route #8: 3 218 139
+Route #9: 185 190 48
+Route #10: 5 61 193
+Route #11: 52 147 87
+Route #12: 131 125 7
+Route #13: 116 9 88
+Route #14: 166 155 89
+Route #15: 62 16 97
+Route #16: 191 108 85
+Route #17: 112 18 181
+Route #18: 162 71 76
+Route #19: 127 208 117
+Route #20: 115 46 192
+Route #21: 164 122 55
+Route #22: 78 13 12
+Route #23: 189 207 211
+Route #24: 132 177 86
+Route #25: 51 32 66
+Route #26: 99 134 56
+Route #27: 167 141 47
+Route #28: 179 114 194
+Route #29: 36 31 205
+Route #30: 183 74 38
+Route #31: 120 158 59
+Route #32: 92 133 34
+Route #33: 109 110 75
+Route #34: 10 215 187
+Route #35: 168 118 200
+Route #36: 84 204 202
+Route #37: 123 170 198
+Route #38: 81 35 113
+Route #39: 53 102 15
+Route #40: 201 41 172
+Route #41: 82 149 67
+Route #42: 98 151 111
+Route #43: 77 216 54
+Route #44: 107 121 60
+Route #45: 20 70 169
+Route #46: 64 6 24
+Route #47: 217 96 165
+Route #48: 128 40 58
+Route #49: 22 2 171
+Route #50: 57 154 148
+Route #51: 160 197 140
+Route #52: 130 21 203
+Route #53: 91 156 33
+Route #54: 214 206 142
+Route #55: 153 144 65
+Route #56: 43 17 63
+Route #57: 129 119 50
+Route #58: 159 175 152
+Route #59: 196 44 199
+Route #60: 106 90 79
+Route #61: 45 213 105
+Route #62: 209 150 161
+Route #63: 104 19 174
+Route #64: 49 101 8
+Route #65: 135 143 100
+Route #66: 37 69 136
+Route #67: 72 23 11
+Route #68: 212 73 42
+Route #69: 29 80 182
+Route #70: 163 103 68
+Route #71: 14 195 126
+Route #72: 184 94 145
+Route #73: 186 28
+Status: SUCCESS
+Alpha: 0.3000
+Random seed: 42
+Vehicles used: 73 / 73
+Served customers: 218 / 218
+Unserved customers (0): none
+Unserved demand: 0
+Cost 140720

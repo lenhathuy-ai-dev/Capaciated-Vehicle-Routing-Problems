@@ -1,0 +1,10 @@
+Route #1: 31 32 34 54 55 41 57 56 58 59 61 60 62 63 64 65 66 67 68 39 37 38 40 69 14 15 2 19 13 12 16 17 3 9 25 50 44 42 43 53
+Route #2: 20 29 23 24 26 30 21 22 28 27 46 45 48 47 49 51 70 52 36 6 5
+Route #3: 33 35 18 1 71 10 8
+Route #4: 11 4 7
+Status: SUCCESS
+Vehicles used: 4 / 4
+Served customers: 71 / 71
+Unserved customers (0): none
+Unserved demand: 0
+Cost 413

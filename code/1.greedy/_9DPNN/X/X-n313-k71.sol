@@ -1,0 +1,82 @@
+Route #1: 154 14 212
+Route #2: 288 15 129
+Route #3: 31 121 194 182 48 82
+Route #4: 124 110 88 90 86 28 222
+Route #5: 220 308 305
+Route #6: 200 156 119
+Route #7: 292 68 59
+Route #8: 16 186 240 99
+Route #9: 242 92 263 13 104
+Route #10: 294 81 197 85 101 46
+Route #11: 113 210 254 70
+Route #12: 192 170 306 5
+Route #13: 181 39 203 83
+Route #14: 47 167 96 49 136
+Route #15: 209 286 261 283
+Route #16: 178 188 187 91
+Route #17: 73 183 213 42
+Route #18: 23 62 12 105 66
+Route #19: 169 225 304 34 89 98
+Route #20: 102 152 276 204
+Route #21: 41 71 109 146
+Route #22: 100 241 172 307
+Route #23: 153 32 84 155 257
+Route #24: 227 233 138 40
+Route #25: 157 199 246 255 145
+Route #26: 275 232 55 8 127
+Route #27: 133 44 142 36 126 137 25
+Route #28: 76 1 103
+Route #29: 27 134 50 65 144
+Route #30: 223 296 118 301 195
+Route #31: 116 139 207 4
+Route #32: 87 51 202 106 128
+Route #33: 108 302 226
+Route #34: 218 217 190 282
+Route #35: 18 268 265 274
+Route #36: 64 60 6
+Route #37: 61 159 289 163
+Route #38: 57 2 230 208
+Route #39: 189 214 262 229
+Route #40: 9 30 79 19
+Route #41: 130 269 117 29
+Route #42: 311 236 258
+Route #43: 298 248 75
+Route #44: 107 184 303 256
+Route #45: 201 278 95 293
+Route #46: 132 24 270 191
+Route #47: 3 115 277
+Route #48: 52 10 251 158
+Route #49: 243 161 266
+Route #50: 287 125 74 245
+Route #51: 143 177 206 309
+Route #52: 224 221 281 264
+Route #53: 267 72 239 231
+Route #54: 162 112 165 171
+Route #55: 280 279 33 273
+Route #56: 114 272 54 300
+Route #57: 21 196 45 215 219
+Route #58: 174 147 131 166
+Route #59: 237 69 176 150 67
+Route #60: 250 312 252 260 94
+Route #61: 234 285 295 297
+Route #62: 299 249 290 193 185
+Route #63: 17 216 253 22
+Route #64: 235 35 123 160 140 173
+Route #65: 180 244 238 11 38 97
+Route #66: 148 20 291 198 179 43
+Route #67: 228 122 78 271
+Route #68: 26 63 58 120 80 151 37
+Route #69: 175 7 56 205
+Route #70: 77 135 111 211 53 310
+Route #71: 164 93 141 284 259
+Partial cost 119586
+Status: FAILURE
+All customers served: NO
+Served customers: 309 / 312
+Unserved customers (3): 149 168 247
+Vehicles used: 71 / 71
+Alpha: 1.000000
+Beta: 1.000000
+D_ref: 1287.000000
+Failure reason: Maximum K vehicles reached
+Generator: Algorithm 9 - Demand-Priority Nearest Neighbor (DPNN)
