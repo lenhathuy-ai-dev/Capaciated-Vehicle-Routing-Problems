@@ -1,0 +1,19 @@
+Route #1: 65 136 35 135 71 103 20 128 66 29 134
+Route #2: 38 140 44 119 14 142 42 100 37 98 85 93 61
+Route #3: 67 23 75 137 13 94 95 112 27
+Route #4: 143 49 19 123 107 11 64
+Route #5: 28 111 132 69 1 101 70 30 122 51 9 120 81 33
+Route #6: 32 131 90 63 126 108 10 62 148 88 31 127 52 146
+Route #7: 5 60 118 83 114 8 45 125 17 113 16 91
+Route #8: 145 41 22 133 74 72 73 21 110 4 139 39 56 25 55 121
+Route #9: 78 34 129 79 3 77 116 76 50 102 68 80 150 24
+Route #10: 7 106 82 48 124 47 36 46 86 141
+Route #11: 130 54 109 12 138 26 149 105 53 58 40 2 115 117
+Route #12: 43 15 57 144 87 97 92 59 99 104 96 6 147 89 18 84
+Cost 1423
+Status: SUCCESS
+All customers served: YES
+Served customers: 150 / 150
+Unserved customers (0): None
+Vehicles used: 12 / 12
+Generator: Algorithm 3 - Parallel Nearest Neighbor (PNN)

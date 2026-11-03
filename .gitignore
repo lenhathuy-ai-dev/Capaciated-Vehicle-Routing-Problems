@@ -1,0 +1,33 @@
+# IDE
+.idea/
+.vscode/
+
+# CVRP data and solutions
+/data/
+/new_data/
+/sol/
+
+# Word documents
+*.doc
+*.docx
+
+# C/C++ compiled artifacts
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.dll
+*.so
+*.txt
+
+# Python caches and virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporary files
+*.tmp
+*.log
+*~
